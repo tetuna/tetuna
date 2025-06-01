@@ -1,3 +1,4 @@
+[![Microsoft Learn](https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg)](https://learn.microsoft.com/en-us/users/giorgi-tetunashvili)
 [![Microsoft Learn](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/users/giorgi-tetunashvili)
 
 <!--
