@@ -1,6 +1,6 @@
+[![Microsoft Learn](https://learn.microsoft.com/en-us/training/achievements/github/introduction-to-github.svg)](https://learn.microsoft.com/en-us/users/giorgi-tetunashvili)
 [![Microsoft Learn](https://learn.microsoft.com/en-us/training/achievements/student-evangelism/introduction-to-git-badge.svg)](https://learn.microsoft.com/en-us/users/giorgi-tetunashvili)
 [![Microsoft Learn](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/users/giorgi-tetunashvili)
-
 <!--
 **tetuna/tetuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
